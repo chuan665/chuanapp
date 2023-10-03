@@ -1,0 +1,8 @@
+{
+  "name": "chuanapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "71cae567"
+}
